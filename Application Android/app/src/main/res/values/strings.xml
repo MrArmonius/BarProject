@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application Bar Project</string>
+    <string name="title_activity_pin_layout">PinLayout</string>
+    <string name="password_0_9">Password PIN</string>
+</resources>
